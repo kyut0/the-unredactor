@@ -1,4 +1,4 @@
-# Project 2 - The Unredactor
+# The Unredactor
 Written by Katy Yut  
 April 24, 2021
 
